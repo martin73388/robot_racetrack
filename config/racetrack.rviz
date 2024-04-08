@@ -42,7 +42,7 @@ Visualization Manager:
       Covariance:
         Orientation:
           Alpha: 0.5
-          Color: 255; 255; 127
+          Color: 155; 255; 127
           Color Style: Unique
           Frame: Local
           Offset: 1
@@ -62,7 +62,7 @@ Visualization Manager:
         Alpha: 1
         Axes Length: 1
         Axes Radius: 0.1
-        Color: 255; 25; 0
+        Color: 105; 25; 0
         Head Length: 0
         Head Radius: 0
         Shaft Length: 0.1
